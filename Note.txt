@@ -1,0 +1,46 @@
+print: \n 
+переніс на нову стору
+
+round(_, 2) кількість цифер після коми
+print(f"     {x} ")
+
+a="{:.2f}".format() додадає дві цифри після коми
+
+if 
+else (якшо не if)
+elif
+
+== перевірк 
+!= не дорівнює
+Thonny прога для дебагів
+
+and or not
+lower() переводить все в нижній регістер
+count() рахує кількість вказаних елементів 
+
+random.randint(1, 4) вибір числа серед зазначених
+
+List
+my_list.append("New") для додавання нових елементів в список (лише один)
+my_list.extend([1,2,3]) додає новий список в кінець попереднього списку
+len(List) рахує кількість елементів в списку
+random.choice(List) обирає одне значення з списку
+
+зміна елемента в списку:
+my_list[0]='new'
+
+for number in range(1, 11, 3) перші 2 цифри це заданий діапазон а 3 це крок вибірки
+
+for loop
+
+using for lists and with range()
+
+
+while loop:
+
+while something==True:
+    do something
+
+    Also
+While not something():
+    do...
